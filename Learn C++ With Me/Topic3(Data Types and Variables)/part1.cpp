@@ -18,6 +18,21 @@ int main(int argc, char const *argv[])
 
     cout << x << " " << y << endl;
     cout << name;
+
+    auto x = 4;
+    auto y = 3.37;
+    auto z = 3.37f;
+    auto w = 'a';
+    auto h = "helloworld";
+    
+
+    cout << "Integer : " << x << endl;
+    cout << "Double : " << y << endl;
+    cout << "Float : " << z << endl;
+    cout << "character : " << w << endl;
+    cout << "Auto : " << h << endl;
+
+
     return 0;
 }
     // int 7, 98,-9,-9865, 0, 10
@@ -25,6 +40,7 @@ int main(int argc, char const *argv[])
     // bool true, false
     // string "hellow" "7.0" "7" "ajskdf23sdafa"
     // char "x" 'X' "0" 's'
+    // auto for all data types
 
 
     //----------------------------------------------------------------
