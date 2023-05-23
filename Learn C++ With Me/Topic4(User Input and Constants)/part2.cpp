@@ -27,6 +27,10 @@ Output :
 
 /*
 cin.clear();
+
+NOTE : This will clears the error flag on cin and jumps into the next step.
+
+
 cin.ignore(1000, '\n'); 
 
 NOTE : They help you to take input after taking one input print it earlier

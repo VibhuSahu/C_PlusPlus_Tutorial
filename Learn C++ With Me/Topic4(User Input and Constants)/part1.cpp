@@ -21,6 +21,6 @@ int main(int argc, char const *argv[])
 
 /*
 Output : 
-    Enter any number : 5
+    Enter any number : 5     // user input
     here is the number : 5%   
 */
