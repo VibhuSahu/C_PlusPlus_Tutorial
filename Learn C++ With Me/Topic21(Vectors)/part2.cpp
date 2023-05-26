@@ -32,3 +32,15 @@ int main(int argc, const char** argv) {
     
     return 0;
 }
+/*
+Output :
+    Beforce the elements is getting inserted : 3
+    Beforce the elements is getting inserted : 4
+    Beforce the elements is getting inserted : 0
+    After the elements is getting inserted the first  element is  : 1
+    After the elements is getting inserted the second element is  : 2
+    After the elements is getting inserted the second element is  : 10
+    After the elements is getting erase the first  element is  : 2
+    After the elements is getting erase the second element is  : 3
+    After the elements is getting erase the second element is  : 10
+*/

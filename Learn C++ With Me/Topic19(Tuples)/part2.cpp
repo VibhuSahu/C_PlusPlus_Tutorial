@@ -19,5 +19,11 @@ int main() {
     cout << get<1>(t2) << endl;
 
   return 0;
-
 }
+/*
+Output :
+  3
+  4
+  1
+  2
+*/

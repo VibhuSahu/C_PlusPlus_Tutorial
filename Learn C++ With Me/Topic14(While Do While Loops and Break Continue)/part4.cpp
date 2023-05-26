@@ -18,3 +18,9 @@ int main(int argc, char const *argv[])
     } while(x < 10);
     return 0;
 }
+
+/*
+Output :
+    Type a number to add to x : 5
+    x is : 15
+*/

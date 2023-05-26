@@ -25,6 +25,5 @@ COMMAND :
     ./a.out                                         // to run the compiled file
 
 Ouput :
-
-
+    7
 */

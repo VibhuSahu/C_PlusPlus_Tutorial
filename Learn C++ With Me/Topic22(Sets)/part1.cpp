@@ -35,8 +35,10 @@ SETS : Sets are a type of associative containers in which each element has to be
 
 Output :
     A
+    B
     C
     D
     E
     F
+    Found C!
 */

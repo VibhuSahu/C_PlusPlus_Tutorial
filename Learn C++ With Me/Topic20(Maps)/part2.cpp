@@ -51,3 +51,22 @@ int main() {
     
     return 0;
 }
+/*
+Output :
+  7
+  8
+  4
+  The size of mpp map : 3
+  5
+  1
+
+
+
+  1
+  pp first  : k
+  pp second : 1
+  0
+  0
+  0
+  Is empty : 0
+*/

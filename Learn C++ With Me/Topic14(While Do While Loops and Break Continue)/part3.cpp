@@ -16,3 +16,20 @@ int main(int argc, char const *argv[])
     }
     return 0;
 }
+/*
+Ouput :
+    1
+    Incrimention of number
+    2
+    Incrimention of number
+    3
+    Incrimention of number
+    4
+    Incrimention of number
+    5
+    Incrimention of number
+    6
+    Incrimention of number
+    8
+    Incrimention of number
+*/

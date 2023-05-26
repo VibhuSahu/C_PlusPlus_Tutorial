@@ -26,3 +26,12 @@ int main() {
 
   return 0;
 }
+/*
+Output :
+  Tim
+  Billy
+  23
+  H
+  1
+  24.3
+*/

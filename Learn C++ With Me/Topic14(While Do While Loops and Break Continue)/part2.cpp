@@ -26,3 +26,9 @@ int main(int argc, char const *argv[])
     
     return 0;
 }
+
+/*
+Output:
+    Type the number 1 or 2 : 4
+    Cool
+*/

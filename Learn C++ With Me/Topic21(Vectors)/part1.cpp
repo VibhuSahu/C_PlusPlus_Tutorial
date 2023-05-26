@@ -61,4 +61,28 @@ int main(int argc, const char** argv) {
 VECTOR : Vector in C++ are sequence containers representing arrays that can change in size.
 
 Ouput :
+    All element of VECTOR
+    1
+    3
+    2
+
+    The size of a vector : 3
+
+    The first element of vector : 1
+    The last element of vector  : 2
+
+    The total capacity of vector : 3
+
+
+
+
+    1
+    3
+    2
+    9
+    10
+    11
+    0
+
+    Size of the vector after poping the vector : 0
 */
